@@ -5,3 +5,7 @@ users:
     roles:
       customer_developer:
         - stag
+  - email: denys.sirchenko@spryker.com # IAM
+    roles:
+      customer_developer:
+        - stag
