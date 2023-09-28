@@ -1,0 +1,7 @@
+version: 1.0
+kind: users
+users:
+  - email: denys.sirchenko@gmail.com # IAM
+    roles:
+      customer_developer:
+        - dev
