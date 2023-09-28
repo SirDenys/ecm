@@ -4,4 +4,4 @@ users:
   - email: denys.sirchenko@gmail.com # IAM
     roles:
       customer_developer:
-        - dev
+        - stag
